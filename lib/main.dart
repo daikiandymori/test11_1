@@ -49,7 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              '表示コメントの変更したよ　その3',
+              '表示コメントの変更したよ　その4',
             ),
             Text(
               '$_counter',
